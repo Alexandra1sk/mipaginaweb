@@ -28,8 +28,8 @@ p {
 #f1 {
     border: 3px groove #fffed4af;
     position: absolute;
-    left: 800px;
-    top: 90px;
+    left: 600px;
+    top: 75px;
 }
 
 .dropdownmenu ul, .dropdownmenu li {
@@ -105,21 +105,21 @@ li:hover ul#submenu {
 .aside {
     background-color: #ffc1c1af;
     padding: 20px;
-    width: 300px;
+    width: 200px;
     position: absolute;
     left: 840px;
-    top: 600px;
-    font-size: 35px;
+    top: 400px;
+    font-size: 25px;
     color: rgb(117, 117, 117);
 }
 .aside2 {
     background-color: #ffc1c1af;
     padding: 20px;
-    width: 300px;
+    width: 200px;
     position: absolute;
     left: 840px;
-    top: 1010px;
-    font-size: 35px;
+    top: 900px;
+    font-size: 25px;
     color: rgb(117, 117, 117);
 }
 a {
