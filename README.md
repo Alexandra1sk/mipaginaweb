@@ -108,7 +108,7 @@ li:hover ul#submenu {
     width: 200px;
     position: absolute;
     left: 940px;
-    top: 200px;
+    top: 50px;
     font-size: 15px;
     color: rgb(117, 117, 117);
 }
@@ -118,7 +118,7 @@ li:hover ul#submenu {
     width: 200px;
     position: absolute;
     left: 940px;
-    top: 700px;
+    top: 90px;
     font-size: 15px;
     color: rgb(117, 117, 117);
 }
